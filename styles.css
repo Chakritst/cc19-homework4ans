@@ -8,6 +8,7 @@
 
 body{
     font-family: "krub", serif;
+    background-color: azure;
 }
 
 .post{
@@ -19,7 +20,7 @@ body{
 }
 
 .row1{
-    /* background-color: burlywood; */
+
     height: 32px;
     display: flex;
     padding: 28px 4px;
@@ -52,7 +53,7 @@ body{
 }
 
 .row2{
-    /* background-color: antiquewhite; */
+ 
     margin-top: 4px;
     height: 32px;
     display: flex;
